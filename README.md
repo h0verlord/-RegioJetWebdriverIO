@@ -1,2 +1,2 @@
-# -RegioJetWebdriverIO
-learning solution for practicing WebdriverIO on a Regiojet Website
+# RegioJet WebdriverIO
+Learning solution for practicing WebdriverIO on a Regiojet Website
